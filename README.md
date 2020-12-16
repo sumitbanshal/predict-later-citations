@@ -3,7 +3,7 @@ Data used in Prediction Paper Published in OIR
 
 #ResearchGate Data
 
-The file name '' Contains the crawled and matched Data from ResearchGate tagged with updated WoS_Citations and document types. 
+The file name 'ResearchGate_Data_Full.xlsx' Contains the crawled and matched Data from ResearchGate tagged with updated WoS_Citations and document types. 
 
 
 #Altmetric Data
